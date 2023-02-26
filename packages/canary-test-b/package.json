@@ -1,5 +1,5 @@
 {
-  "name": "canary-test-b",
+  "name": "@gecugamo/canary-test-b",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "canary-test-a": "^1.0.0"
+    "@gecugamo/canary-test-a": "^1.0.0"
   }
 }

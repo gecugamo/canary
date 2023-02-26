@@ -1,5 +1,5 @@
 {
-  "name": "canary-test-a",
+  "name": "@gecugamo/canary-test-a",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
