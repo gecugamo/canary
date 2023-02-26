@@ -1,6 +1,6 @@
 {
   "name": "@gecugamo/canary-test-b",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@gecugamo/canary-test-a": "^1.0.0"
+    "@gecugamo/canary-test-a": "^1.0.1"
   }
 }
